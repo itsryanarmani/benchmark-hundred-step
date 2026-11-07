@@ -4,7 +4,7 @@
   "description": "Measure AI agent reliability across 25 to 100 dependent tool steps with deterministic replay.",
   "version": "0.2.0",
   "repository": {
-    "url": "https://github.com/pooriaarab/benchmark-hundred-step",
+    "url": "https://github.com/itsryanarmani/benchmark-hundred-step",
     "source": "github"
   },
   "packages": [

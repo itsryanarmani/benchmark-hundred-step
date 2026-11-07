@@ -18,10 +18,10 @@
     "typescript"
   ],
   "homepage": "https://private-repo-337e.com/benchmarks/benchmark-hundred-step",
-  "bugs": "https://github.com/pooriaarab/benchmark-hundred-step/issues",
+  "bugs": "https://github.com/itsryanarmani/benchmark-hundred-step/issues",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pooriaarab/benchmark-hundred-step.git"
+    "url": "git+https://github.com/itsryanarmani/benchmark-hundred-step.git"
   },
   "license": "MIT",
   "author": "Pooria Arab",
