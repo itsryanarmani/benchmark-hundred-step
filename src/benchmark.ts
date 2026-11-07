@@ -313,7 +313,7 @@ const definition: Omit<BenchmarkDefinition<WorkflowTask>, "loadTasks"> = {
   provenance: [{
     name: "Seeded dependent-workflow state machines",
     kind: "synthetic",
-    url: "https://github.com/pooriaarab/benchmark-hundred-step/blob/main/scripts/gen-tasks.mjs",
+    url: "https://github.com/itsryanarmani/benchmark-hundred-step/blob/main/scripts/gen-tasks.mjs",
     licence: "MIT",
     howToGet: "Run `node scripts/gen-tasks.mjs --seed 20261015 --split public` from the repository root.",
     retrievedAt: "2026-10-16T00:00:00.000Z",

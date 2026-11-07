@@ -3,7 +3,7 @@
 > Deterministic AI agent benchmark for dependency survival and fault recovery across 25 to 100 tool steps.
 
 Package: https://www.npmjs.com/package/benchmark-hundred-step
-Repository: https://github.com/pooriaarab/benchmark-hundred-step
+Repository: https://github.com/itsryanarmani/benchmark-hundred-step
 Directory: https://private-repo-337e.com/benchmarks/benchmark-hundred-step
 
 ## Dataset

@@ -271,7 +271,7 @@ wording were created for this package rather than copied from AgentBench.
 Version 0.2.0 is alpha. It fixes grader defects found in review, so 0.2.0
 scores are not comparable with 0.1.0 scores; see [CHANGELOG.md](CHANGELOG.md).
 Task schemas and score weights may change before 1.0.
-Report defects in the [issue tracker](https://github.com/pooriaarab/benchmark-hundred-step/issues).
+Report defects in the [issue tracker](https://github.com/itsryanarmani/benchmark-hundred-step/issues).
 Public case studies are not yet published.
 
 ## Development
